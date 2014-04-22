@@ -20,5 +20,5 @@ to `/smoke-test`.  Some of the tests can be configured in application.ini.
     smoke-test.latests.vendor.out = APPLICATION_PATH "/../public/modules/admin/static/libs/vendor.min.js"
     smoke-test.latests.vendor.src = APPLICATION_PATH "/../public/modules/admin/static/libs/vendor"
 
-The [code is here](https://bitbucket.org/mat/smoke-test/src/tip/smoke-test/controllers/IndexController.php). The [elephant image](http://riosriosrios.wordpress.com/2008/08/09/elephant/) is from [riosriosrios](http://riosriosrios.wordpress.com). Got a crack ? [fork](https://bitbucket.org/mat/smoke-test/fork) !
+The [code is here](https://github.com/4d47/zf1-smoke-test/blob/master/smoke-test/controllers/IndexController.php). The [elephant image](http://riosriosrios.wordpress.com/2008/08/09/elephant/) is from [riosriosrios](http://riosriosrios.wordpress.com). Got a crack ? [fork](https://github.com/4d47/zf1-smoke-test/fork) !
 
